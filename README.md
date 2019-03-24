@@ -1,5 +1,10 @@
 ## SSM+logback整合要点
 此项目Demo是Spring、SpringMVC、Mybatis整合的基本配置，可下载运行。包含了logback和lombok。
+
+[TOC]
+
+
+
 ### 项目环境
  1. jdk 1.8
  2. tomcat 9.0.14
@@ -427,6 +432,6 @@ c3p0.idleConnectionTestPeriod=60
  3. 修改dbConfig.properties文件的用户、密码
  4. 在Tomcat下运行
  5. 访问http://localhost:8080/emps
- 
+
  ### 特别说明
  项目中使用了lombok，所以bean中没有getter、setter等方法。
