@@ -1,5 +1,5 @@
 ## SSM+logback整合要点
-
+此项目Demo是Spring、SpringMVC、Mybatis整合的基本配置，可下载运行。包含了logback和lombok。
 ### 项目环境
  1. jdk 1.8
  2. tomcat 9.0.14
